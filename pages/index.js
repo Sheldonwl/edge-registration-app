@@ -143,7 +143,7 @@ export default function Form({ applianceId }) {
           <option value="edge-milwaukee;62a96c6f4575048ec4495496,62a97922457504988e543a7a">
             Milwaukee, WI - Edge Stores
           </option>
-          <option value="edge-sanmateo;62a96c6f4575048ec4495496,62a97922457504988e543a7a">
+          <option value="edge-sanmateo;62a96c6f4575048ec4495496,62e9808b2a6ee06f49408e3d">
             San Mateo, Ca - Edge Stores
           </option>
           <option value="edge-sanjose;627a4962f245b23834eb4766,61a904fa66f466f67dd86cf3">
